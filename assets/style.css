@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+.menu {
+    height: 205px;
+    background-color: blueviolet;
+}
+
+h2 {
+    color: azure;
+}
+
+.img-perfil {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 2px solid black;
+    background-image: url("../assets/img/RM.jpeg");
+    background-repeat: no-repeat;
+    background-position: 51% 38%;
+    background-size: 410px;
+    float: inline-start;
+}
+
+.banner-texto {
+    text-align: center;
+    align-content: center;
+    height: 200px;
+}
+
+.menu-opcao {
+    text-align: center;
+    align-content: center;
+    background-color: aqua
+}
+
+.conteudo {
+    text-align: center;
+    align-content: center;
+    background-color: green;
+    height: 200px;
+}
